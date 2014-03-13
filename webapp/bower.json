@@ -1,0 +1,16 @@
+{
+  "name": "ember-browserify-grunt",
+  "version": "0.0.1",
+  "authors": [
+    "Ray H.J Kwon <nicekhj@gmail.com>"
+  ],
+  "description": "ember-browserify-grunt",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ember": "~1.4.0",
+    "jquery": "~2.0.3",
+    "handlebars": "~1.3.0",
+    "lodash": "~2.4.1"
+  }
+}

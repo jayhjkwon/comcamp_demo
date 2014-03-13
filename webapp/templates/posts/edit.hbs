@@ -1,0 +1,8 @@
+<h3>{{company}}</h3>
+{{partial 'posts/form'}}
+<button class="btn" {{action 'editFile' this}}>Save</button>
+<h2>{{model.title}}</h2>
+<h3>by {{author}}</h3>
+<div>
+  {{markdown contents}}
+</div>  

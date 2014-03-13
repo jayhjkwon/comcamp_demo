@@ -5,6 +5,9 @@ bower_components
 ### node.js ###
 node_modules
 
+### nuget ###
+packages
+
 lib-cov
 *.seed
 *.log

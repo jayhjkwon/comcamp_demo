@@ -17,4 +17,5 @@ if $(ConfigurationName) == Debug (
   grunt.cmd vsdistbuild
 )
 ```
-5. run
+
+Run !!
